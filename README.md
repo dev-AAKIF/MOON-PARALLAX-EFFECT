@@ -1,3 +1,3 @@
 # MOON-PARALLAX-EFFECT
 
-Link :- https://dev-aakif.github.io/MOON-PARALLAX-EFFECT/
+Link :- https://dev-akif-moon-parallax-effect.vercel.app/
